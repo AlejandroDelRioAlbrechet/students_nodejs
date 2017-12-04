@@ -1,2 +1,2 @@
 # students_nodejs
-NodeJS introduction
+NodeJS introduction for students
